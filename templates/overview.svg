@@ -47,7 +47,7 @@ td {
 
 tr {
   transform: translateY(500%);
-  animation-duration: 1s;
+  animation-duration: 3s;
   animation-name: slideIn;
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
@@ -57,6 +57,7 @@ tr {
   font-weight: 600;
   color: rgb(139, 139, 139);
 }
+
 .octicon {
   fill: rgb(139, 139, 139);
   margin-right: 1ch;
